@@ -1,6 +1,6 @@
 # React Room Classification Model
 
-![demo](https://raw.githubusercontent.com/asifsha/r-rcm/master/demo/demo1.gif)
+![demo](https://raw.githubusercontent.com/asifsha/r-rcm/master/demo/demo.gif)
 
 
 ## How to use
